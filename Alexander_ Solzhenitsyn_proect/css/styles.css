@@ -94,27 +94,23 @@ ul li:hover {
 
 
 /* основная инфа 2 */
-.Paragraph{
+.Paragraph_part1{
     font-family: times new roman;
     text-align: justify;
-    padding-top: 4%;
-    margin-left: 100px;
-    padding-right: 100px;
+    padding-top: 3%;
+    margin-left: 10%;
+    padding-right: 10%;
     font-size: 1.3vw;
 
 }
 
-.part_1{
-    font-size: 1.3vw;
-    font-family: times new roman;
+.Page_2_part_1{
     display: flex;
     margin-top: 5%;
-    column-gap: 1px;
 }
 
 .foto_microchel{
-    margin-top: 1%;
-    padding-left: 5%;
+    padding-left: 6%;
 
 }
 
