@@ -105,15 +105,12 @@ ul li:hover {
 }
 
 .Page_2_part_1{
-    display: flex;
-    flex-direction: row;
     margin-top: 5%;
 }
 
 .foto_microchel{
+
     padding-left: 6%;
-    width: 350%;
-    height: 150%;
 
 }
 
@@ -124,6 +121,7 @@ ul li:hover {
     text-align: justify;
     padding-right: 100px;
     margin-top: 6%;
+    white-space: nowrap
 }
 
 
