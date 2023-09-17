@@ -10,14 +10,13 @@ body {
 
 .nav {
     width: 100vw;
-    height: 100px;
+    height: 5.21vw;
     background-color: rgb(46, 32, 30);
 }
 
 ul {
     width: 100vw;
-    padding-top: 10px;
-    text-align: center;
+    padding-top: 1.4vw;
 }
 
 ul li {
@@ -27,13 +26,13 @@ ul li {
     transition: 0.3s;
     font-family: Arial;
     color: rgb(209, 223, 225);
-    font-size: 36px;
-    letter-spacing: 1px;
+    font-size: 1.88vw;
+    letter-spacing: 0.05vw;
 }
 
 ul li:hover {
-    border-bottom: solid 3px rgb(209, 223, 225);
-    padding-bottom: 4px;
+    border-bottom: solid 0.16vw rgb(209, 223, 225);
+    padding-bottom: 0.21vw;
 }
 
 
