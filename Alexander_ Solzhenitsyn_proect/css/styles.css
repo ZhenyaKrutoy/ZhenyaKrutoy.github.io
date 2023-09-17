@@ -109,8 +109,11 @@ ul li:hover {
 }
 
 .foto_microchel{
-
-    padding-left: 6%;
+    margin-top: 10%;
+    padding-left: 10%;
+    display:block;
+    max-width:100%;
+    height:auto;
 
 }
 
