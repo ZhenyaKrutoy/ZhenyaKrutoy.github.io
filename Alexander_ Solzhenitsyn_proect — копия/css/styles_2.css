@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+}
+
+body {
+    background-color: antiquewhite
+}
+
+.nav {
+    width: 100vw;
+    height: 100px;
+    background-color: rgb(46, 32, 30);
+}
+
+ul {
+    width: 100vw;
+    padding-top: 10px;
+    text-align: center;
+}
+
+ul li {
+    margin-left: 4vw;
+    display: inline-block;
+    transition-property: all;
+    transition: 0.3s;
+    font-family: Arial;
+    color: rgb(209, 223, 225);
+    font-size: 36px;
+    letter-spacing: 1px;
+}
+
+ul li:hover {
+    border-bottom: solid 3px rgb(209, 223, 225);
+    padding-bottom: 4px;
+}
+
+
+
+/* основная инфа */
+.part_1{
+    font-size: 25px;
+    font-family: times new roman;
+    display: flex;
+    margin-top: 5%;
+
+}
+
+.part_1 p{
+    font-family: times new roman;
+    padding-top: 140px;
+    margin-left: 100px;
+    padding-right: 100px;
+
+}
+
+
+.part_1 img{
+    margin-top: 1px;
+    padding-left: 100px;
+    width: 50vw;
+    height: 40vw;
+}
+
+.part_2{
+    font-size: 25px;
+    font-family: times new roman;
+    padding-left: 100px;
+    text-align: justify;
+    padding-right: 100px;
+    margin-top: 6%;
+}
+
+
+.foto2{
+    margin-top: 5%;
+    padding-left: 11%;
+}
+
+.foto3{
+    margin-top: 5%;
+    margin-left: 23%;
+}
+
+.part_3{
+    font-family: times new roman;
+    font-size: 25px;
+    margin-top: 6%;
+    text-align: justify;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+
+.foto4{
+    margin-top: 6%;
+}
+
+.part_4{
+    font-family: times new roman;
+    font-size: 25px;
+    margin-top: 6%;
+    text-align: justify;
+    margin-left: 5%;
+    margin-top: 8%;
+}
+
+.end{
+    display: flex;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 5%;
+}

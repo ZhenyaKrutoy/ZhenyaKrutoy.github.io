@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+}
+
+body {
+    background-color: antiquewhite
+}
+
+.nav {
+    width: 100vw;
+    height: 100px;
+    background-color: rgb(46, 32, 30);
+}
+
+ul {
+    width: 100vw;
+    padding-top: 10px;
+    text-align: center;
+}
+
+ul li {
+    margin-left: 4vw;
+    display: inline-block;
+    transition-property: all;
+    transition: 0.3s;
+    font-family: Arial;
+    color: rgb(209, 223, 225);
+    font-size: 36px;
+    letter-spacing: 1px;
+}
+
+ul li:hover {
+    border-bottom: solid 3px rgb(209, 223, 225);
+    padding-bottom: 4px;
+}
+
+/* основная инфа */
+
+.role {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.piter {
+    font-size: 25px;
+    margin: 5% 100px 100px 100px;
+}
+
+.one{
+    margin-bottom: 100px;
+}
+
+.two{
+    margin-bottom: 100px;
+}
+
+.three{
+    margin-bottom: 100px;
+
+}
