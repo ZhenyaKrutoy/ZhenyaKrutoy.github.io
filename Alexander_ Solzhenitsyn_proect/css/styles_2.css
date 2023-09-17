@@ -39,66 +39,73 @@ ul li:hover {
 
 /* основная инфа */
 .part_1{
-    font-size: 25px;
+    font-size: 1.30vw;
     font-family: times new roman;
     display: flex;
     margin-top: 5%;
 
 }
 
-.part_1 p{
+.part_1 div{
     font-family: times new roman;
-    padding-top: 140px;
-    margin-left: 100px;
-    padding-right: 100px;
+    padding-top: 8%;
+    margin-left: 8%;
+    padding-right: 8%;
+    text-align: justify;
 
 }
 
 
 .part_1 img{
     margin-top: 1px;
-    padding-left: 100px;
+    padding-left: 5%;
     width: 50vw;
     height: 40vw;
 }
 
 .part_2{
-    font-size: 25px;
+    font-size: 1.30vw;
     font-family: times new roman;
-    padding-left: 100px;
+    padding-left: 5%;
     text-align: justify;
-    padding-right: 100px;
+    padding-right: 8%;
     margin-top: 6%;
 }
 
 
-.foto2{
+.foto_sleva{
     margin-top: 5%;
     padding-left: 11%;
+    width: 30vw;
+    height: 22vw;
 }
 
-.foto3{
+.foto_sprava{
     margin-top: 5%;
     margin-left: 23%;
+    width: 18vw;
+    height: 25vw;
 }
 
 .part_3{
     font-family: times new roman;
-    font-size: 25px;
+    font-size: 1.30vw;
     margin-top: 6%;
     text-align: justify;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 8%;
+    padding-left: 5%;
 }
 
 
 .foto4{
     margin-top: 6%;
+    width: 50vw;
+    height: 40vw;
 }
 
 .part_4{
     font-family: times new roman;
-    font-size: 25px;
+    font-size: 1.30vw;
     margin-top: 6%;
     text-align: justify;
     margin-left: 5%;
@@ -107,7 +114,7 @@ ul li:hover {
 
 .end{
     display: flex;
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 8%;
+    padding-left: 5%;
     padding-bottom: 5%;
 }
