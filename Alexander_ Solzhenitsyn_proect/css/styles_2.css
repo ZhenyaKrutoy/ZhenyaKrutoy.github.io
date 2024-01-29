@@ -5,8 +5,9 @@
 }
 
 body {
-    background-image: url("/media/kot.jpg");
-    background-size: 100%;
+    /* background-image: url("/media/kot.jpg"); */
+    background-color: antiquewhite
+    /* background-size: 100%; */
 }
 
 .nav {
