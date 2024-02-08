@@ -1,7 +1,9 @@
 * {
+    overflow-x: hidden;
     padding: 0;
     margin: 0;
     font-family: Arial;
+    list-style-type: none;
 }
 
 body {
@@ -47,14 +49,54 @@ ul li:hover {
 }
 
 .one{
-    margin-bottom: 100px;
+    margin-bottom: 1%;
 }
 
 .two{
-    margin-bottom: 100px;
+    margin-bottom: 5%;
 }
 
 .three{
-    margin-bottom: 100px;
+    margin-bottom: 5%;
 
+}
+
+
+
+.foto_set{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+
+.one_block{
+    margin: 5% 10% 10% 10%;
+}
+
+.two_block{
+    margin: 10% 10% 10% 10%;
+}
+
+.three_block{
+    margin: 10% 10% 10% 10%;
+}
+
+.four_block{
+    margin: 10% 10% 10% 10%;
+}
+
+.five_block{
+    margin: 10% 10% 10% 10%;
+}
+
+.six_block{
+    margin: 10% 10% 10% 10%;
+}
+
+.seven_block{
+    margin: 10% 10% 10% 10%;
+}
+
+.eight_block{
+    margin: 10% 10% 10%;
 }
